@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @tbiehle
-- 👀 I’m interested in learning Computer Science
-- 🌱 I’m currently learning Web Scraping with Python
-- 💞️ I’m looking to collaborate on nothing ATM!
-- 📫 Reach me at travissbiehle@gmail.com
+👋 Hi, I’m Travis Biehle, a high school student interested in learning Computer Science.
+🌱 I’m currently learning Web Development with JavaScript, HTML, and CSS, as well as Arduino programming with C++.
+📫 Reach me at travissbiehle@gmail.com
 
 <!---
 tbiehle/tbiehle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
